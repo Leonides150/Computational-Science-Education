@@ -1,1 +1,0 @@
-#Contains diffrent examples of MATLAB codes with varying computational complexities aimed at understanding how to use 'GUI' or SLURM-based 'Batch script' submissions.
