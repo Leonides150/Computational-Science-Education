@@ -1,0 +1,3 @@
+https://www.upgrad.com/blog/python-list-comprehension/
+https://realpython.com/python-recursion/
+https://stackabuse.com/functional-programming-in-python/
