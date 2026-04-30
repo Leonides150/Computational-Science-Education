@@ -1,0 +1,20 @@
+Built-In
+1. List - Mutable
+2. Dictionary - Mutable
+3. Tuple - Immutable
+4. set - Mutable
+Mutability refers to data inside the data structure that can be modified. 
+For example, you can either change, update, or delete the data when needed. 
+A list is an example of a mutable data structure. The opposite of mutable is immutable. 
+An immutable data structure will not allow modification once the data has been set. 
+The tuple is an example of an immutable data structure.
+
+User-Defined 
+1. Stack
+2. Queue
+3. Tree 
+4. Linked List
+5. Graph
+6. HashMap
+
+

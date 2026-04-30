@@ -1,0 +1,45 @@
+1. What keyword is used to create a function in Python?
+var
+
+func
+
+def
+
+for
+
+2. What function in Python allows you to output data onto the screen?
+input()
+
+print()
+
+output()
+
+while
+
+3. A variable that is declared inside a function cannot be accessed from outside the function?]
+True
+
+False
+
+4. Which of the declarations is correct when creating a for loop?
+for while in:
+
+for x in items:
+
+for in items:
+
+for if in items:
+
+5. What error will be thrown from the below code snippet?
+nums = 34
+for i in nums:
+    print(i)
+
+Exception
+
+MemoryError
+
+TypeError: 'int' object is not iterable
+
+FloatingPointError
+
