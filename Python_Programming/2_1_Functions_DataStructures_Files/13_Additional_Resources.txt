@@ -1,2 +1,0 @@
-https://docs.python.org/3/tutorial/datastructures.html
-https://realpython.com/python-data-structures/
