@@ -1,2 +1,3 @@
 # Computational-Science-Education
-## A variety of programming languages and algorithmic concepts explained through simple examples.
+A variety of programming examples explaining the algorithmic concepts through simple examples in MATLAB and Python programing.
+- 
