@@ -8,9 +8,3 @@ A variety of programming examples explaining the algorithmic concepts through si
 ## Python
 - This segment introduces fundamentals of Python programing and its various techniques, data structures and paradigms.
 
-
-
-
-
-
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for the full text.
